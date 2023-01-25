@@ -1,0 +1,16 @@
+{
+  "name": "Maura Willems",
+  "short_name": "MW",
+  "theme_color": "#ffb6c1",
+  "background_color": "#FF69B4",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "C:\Users\Cursist.NIEUWEGEIN\Desktop\icons8-harry-potter-50.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
